@@ -1,0 +1,16 @@
+{
+  "name": "sumsub-api-client",
+  "version": "1.0.0",
+  "description": "A Node.js client for interacting with the Sumsub API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
